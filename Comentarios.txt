@@ -1,0 +1,14 @@
+Comentarios Utiles sobre c++
+
+Compilar: 
+
+    g++ -c programa1.cpp    
+    g++ -c programa2.cpp
+
+Crear Ejecutable:
+
+    g++ programa1.o programa2.o -0 nombre_ejecutable
+
+Correr el programa: 
+
+    ./nombre_ejecutable
